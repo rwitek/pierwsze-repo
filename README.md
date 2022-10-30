@@ -1,2 +1,2 @@
 # pierwsze-repo
-Próbny projekt
+Próbny projekt zadanie trójkąta
